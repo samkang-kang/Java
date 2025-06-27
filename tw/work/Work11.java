@@ -8,7 +8,7 @@ public class Work11 {
 			int p0,p1, p2, p3, p4, p5, p6;
 		p0 = p1 = p2 = p3 = p4 = p5 = p6 = 0;
 
-		for (int i = 0; i < 100; i++)
+		for (int i = 0; i < 60 ; i++)
 			
 		{
 			int point = (int) (Math.random() * 6) + 1;

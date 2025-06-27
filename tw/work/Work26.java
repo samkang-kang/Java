@@ -28,19 +28,7 @@ class Work261 {
 		System.out.println("Work261:m1");
 	}
 	static void m2() {
-		System.out.println("Brad261:static:m2()");
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		System.out.println("Brad261:static:m2()");			
 	}
 
 }

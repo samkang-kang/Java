@@ -3,7 +3,7 @@ package tw.work;
 public class Work07 {
 
 	public static void main(String[] args) {
-		int year = 2023;
+		int year = 2024;
 		boolean isLeap;
 
 		if (year % 4 == 0) {
@@ -22,3 +22,5 @@ public class Work07 {
 	}
 
 }
+
+

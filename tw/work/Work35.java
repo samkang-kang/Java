@@ -5,6 +5,9 @@ import java.util.Iterator;
 import java.util.TreeSet;
 
 public class Work35 {
+	
+	// Set = 1.不重要  2.沒有順序性
+	// List = 1.可重複 2.有順序性
 
 	public static void main(String[] args) {
 		TreeSet<Integer> lottery = new TreeSet<>();

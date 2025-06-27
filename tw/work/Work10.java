@@ -20,14 +20,7 @@ public class Work10 {
 		}
 		System.out.println("------------------------------");
 		System.out.println(a);
-		System.out.println(ary);
-		
-		
-		
-		
-		
-		
-		
+		System.out.println(ary);		
 	}
 
 }

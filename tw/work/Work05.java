@@ -15,3 +15,9 @@ public class Work05 {
 	}
 
 }
+
+
+//      宣告	           資料型別	         說明
+//char c1 = 97;	       char	     存的是 Unicode 編號 97 ⇒ 'a'
+//char c3 = '資';	   char	     可以儲存中文字元（支援 Unicode）
+//boolean a = true;	   boolean	  只能是 true 或 false

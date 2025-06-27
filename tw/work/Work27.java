@@ -14,11 +14,6 @@ public class Work27 {
 		Work271 obj3= new Work271();
 		System.out.println(obj3.i);
 		System.out.println(Work271.j);
-		
-		
-		
-		
-
 	}
 
 }
